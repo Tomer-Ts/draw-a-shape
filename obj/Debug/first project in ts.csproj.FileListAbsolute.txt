@@ -1,0 +1,21 @@
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\bin\TypeScriptHTMLApp1.dll
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\obj\Debug\first project in ts.csproj.AssemblyReference.cache
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\obj\Debug\first project in ts.csproj.CoreCompileInputs.cache
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Shaked\Desktop\91558.2021\typescript\first project in ts\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\bin\TypeScriptHTMLApp1.dll
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\first project in ts.csproj.AssemblyReference.cache
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\first project in ts.csproj.CoreCompileInputs.cache
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Shaked\Desktop\91558.2021\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\bin\TypeScriptHTMLApp1.dll
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\first project in ts.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\first project in ts.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Tomer\Desktop\91558\typescript\tomer tsabari - project in typescript\first project in ts\obj\Debug\TypeScriptHTMLApp1.pdb
